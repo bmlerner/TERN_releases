@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: TAG Explorer and iNtegration (TERN)
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Gabriel
+    family-names: Isaacman-VanWertz
+    email: ivw@vt.edu
+    affiliation: Virginia Tech
+    orcid: 'https://orcid.org/0000-0002-3717-4798'
+  - given-names: Brian M
+    family-names: Lerner
+    email: blerner@aerodyne.com
+    affiliation: Aerodyne Research Inc.
+    orcid: 'https://orcid.org/0000-0001-8721-8165'
+  - given-names: Donna T
+    family-names: Sueper
+    email: donna@aerodyne.com
+    affiliation: Aerodyne Research Inc.
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6914068
+    description: Latest version of TERN
+repository-code: 'https://github.com/aerodyneresearch/TERN'
+url: 'https://sites.google.com/site/terninigor/'
+license: GPL-3.0
